@@ -1,6 +1,6 @@
 # D-Cam
 
-## 🇱🇰Camera Hack Tool🇱🇰
+## 🇱🇰Camera Hack Tool
 
 ![Tool Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya/Ravana-Store&left_color=blueviolet&right_color=brightgreen)
 
@@ -28,7 +28,7 @@
 
 `♀️ bash d-cam.sh`
 
-### ⚠️ Turn On Your Hotspot ⚠️
+### ⚠️Turn On Your Hotspot⚠️
 
 ----
 
