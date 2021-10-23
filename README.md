@@ -26,6 +26,8 @@
 
 `♀️ chmod +x d-cam.sh`
 
+`♀️ bash req.sh`
+
 `♀️ bash d-cam.sh`
 
 ### ⚠️Turn On Your Hotspot⚠️
