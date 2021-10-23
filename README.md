@@ -2,7 +2,7 @@
 
 ## 🇱🇰Camera Hack Tool
 
-![Tool Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya/Ravana-Store&left_color=blueviolet&right_color=brightgreen)
+![Tool Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya/D-Cam&left_color=blueviolet&right_color=brightgreen)
 
 ## Features :
 
