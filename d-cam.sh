@@ -28,7 +28,7 @@ echo -e '
 
 echo " "
 printf "      \e[1;35m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
-printf "          \e[1;32m      Modified by { Darken Pasiya }\e[0m \n"
+printf "          \e[92m      Modified by { Darken Pasiya }\e[0m \n"
 
 echo 
 printf "\n"
@@ -245,12 +245,12 @@ echo -e '
     \e[32m░░░░░░░░░░                ░░░░░░░░░   ░░░░░░░░ ░░░░░ ░░░ ░░░░░ ' | lolcat
 echo 
 echo 
-echo -e $green"[#]> v1.0 coded by github.com/thelinuxchoice/saycheese  " |lolcat
-echo -e $green"[#]> MODIFIED BY DARKEN PASIYA  " |lolcat
-echo -e $green"[#]> Thanks For Using My Tool" |lolcat
+echo -e "\e[92m[#]> v1.0 coded by github.com/thelinuxchoice/saycheese  " | lolcat
+echo -e "\e[92m[#]> MODIFIED BY DARKEN PASIYA  " |lolcat
+echo -e "\e[92m[#]> Thanks For Using My Tool" |lolcat
 sleep 1
-echo -e $green"[#]> D-CAM HAS STOPED" |lolcat
-echo -e $green"[#]> Have A Nice Day...😉" |lolcat
+echo -e "\e[92m[#]> D-CAM HAS STOPED" |lolcat
+echo -e "\e[92m[#]> Have A Nice Day...😉" |lolcat
 xdg-open https://github.com/Darken-Pasiya
 sleep 1
 exit
