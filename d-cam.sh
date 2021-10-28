@@ -246,11 +246,11 @@ echo -e '
 echo 
 echo 
 echo -e "\e[92m[#]> v1.0 coded by github.com/thelinuxchoice/saycheese  " | lolcat
-echo -e "\e[92m[#]> MODIFIED BY DARKEN PASIYA  " | pv -qL 60
-echo -e "\e[92m[#]> Thanks For Using My Tool" | pv -qL 100
+echo -e "\e[92m[#]> MODIFIED BY DARKEN PASIYA  " | pv -qL 10
+echo -e "\e[92m[#]> Thanks For Using My Tool" | pv -qL 10
 sleep 1
-echo -e "\e[92m[#]> D-CAM HAS STOPED" | pv -qL 60
-echo -e "\e[92m[#]> Have A Nice Day...😉" | pv -qL 30
+echo -e "\e[92m[#]> D-CAM HAS STOPED" | pv -qL 10
+echo -e "\e[92m[#]> Have A Nice Day...😉" | pv -qL 10
 xdg-open https://github.com/Darken-Pasiya
 sleep 1
 exit
