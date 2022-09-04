@@ -2,7 +2,7 @@
 
 ## 🇱🇰Camera Hack Tool
 
-<a href="https://github.com/Anonymous-Zpt/T-banner4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Darken-Pasiya/D-Cam?color=blue&style=flat-square"></a>
+<a href="https://github.com/Darken-Pasiya/D-Cam/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Darken-Pasiya/D-Cam?color=blue&style=flat-square"></a>
 
 ![Tool Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya/D-Cam&left_color=blueviolet&right_color=brightgreen)
 
